@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "asdf",
+      "description": "asdf",
+      "id": 1
+    },
+    {
+      "title": "teststream",
+      "description": "testing",
+      "id": 2
+    },
+    {
+      "title": "teststream",
+      "description": "testing",
+      "id": 3
+    },
+    {
+      "title": "Bill's Stream",
+      "description": "test223",
+      "userId": "110280075406574898360",
+      "id": 4
+    },
+    {
+      "title": "test2",
+      "description": "asdf",
+      "userId": "110280075406574898360",
+      "id": 5
+    }
+  ]
+}
